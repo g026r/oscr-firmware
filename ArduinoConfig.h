@@ -849,9 +849,9 @@
 //#define OPTION_GG_ADAPTER SMSOPT_GG_ADAPTER_ALL
 
 // == SG-1000 Adapters
-// -  0     Show all SG-1000 adapters [default]
-// -  1     Raphnet
-//#define OPTION_SG1000_ADAPTER SMSOPT_SG1000_ADAPTER_ALL
+// -  SMSOPT_SG_ADAPTER_ALL      : Show all SG-1000 adapters [default]
+// -  SMSOPT_SG_ADAPTER_RAPHNET  : Raphnet adapter
+//#define OPTION_SG1000_ADAPTER SMSOPT_SG_ADAPTER_ALL
 
 /****/
 
